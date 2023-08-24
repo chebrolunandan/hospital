@@ -1,0 +1,18 @@
+LICENSE.txt
+MANIFEST.in
+README.rst
+setup.py
+django_register_activate.egg-info/PKG-INFO
+django_register_activate.egg-info/SOURCES.txt
+django_register_activate.egg-info/dependency_links.txt
+django_register_activate.egg-info/top_level.txt
+docs/Example settings.py
+docs/index.rst
+register_activate/templates/register_activate/ErrorPage.html
+register_activate/templates/register_activate/activation.html
+register_activate/templates/register_activate/base.html
+register_activate/templates/register_activate/log_out.html
+register_activate/templates/register_activate/mainpage.html
+register_activate/templates/register_activate/sign_in.html
+register_activate/templates/register_activate/sign_up.html
+register_activate/templates/register_activate/thankyou.html
